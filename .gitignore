@@ -11,4 +11,8 @@ staticfiles/
 media/
 
 # OS
+<<<<<<< HEAD
 .DS_Store
+=======
+.DS_Store
+>>>>>>> 2c5948e94884c05a2846c4789709d37561c25944
